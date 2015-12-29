@@ -1,0 +1,20 @@
+# Ignore bundles, but not vundle in bundles
+bundle/*
+!bundle/Vundle.vim
+
+# vim swap files
+*.swp
+
+# undodir content
+undodir/*
+!undodir/.gitkeep
+
+# fucking history file
+.netrwhist
+
+# no spell checking files
+spell/*
+!spell/.gitkeep
+
+# python bytecode files
+*.pyc

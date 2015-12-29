@@ -128,4 +128,7 @@ There are some color schemes included as well:
 
 **Screenshot:**<br />
 ![solarized dark](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
+<<<<<<< HEAD
 # .vim
+=======
+>>>>>>> a44f19cbe5bd18935e8a1bbd9a73329b369f79ac
